@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of HoloDraw AI",
+  "description": "A futuristic holographic air-writing system. Use hand gestures to draw in the air, resize content, and use Gemini AI to interpret your creations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
